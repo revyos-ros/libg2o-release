@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/libg2o-release
 tracks:
   eloquent:
     actions:
