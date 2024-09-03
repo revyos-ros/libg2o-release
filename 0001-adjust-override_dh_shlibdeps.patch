@@ -1,4 +1,4 @@
-From 8d3cdd3ae3835e0a2961af0bdee7b6c0fa6c05ca Mon Sep 17 00:00:00 2001
+From 1d5f165541e2565236d8590490742876009400b5 Mon Sep 17 00:00:00 2001
 From: Zheng Junjie <zhengjunjie@iscas.ac.cn>
 Date: Tue, 3 Sep 2024 16:55:36 +0800
 Subject: [PATCH] adjust override_dh_shlibdeps
